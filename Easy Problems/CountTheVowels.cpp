@@ -34,7 +34,7 @@ int main()
      sentence[i] == ('E') || sentence[i] == ('I') || sentence[i] == ('O') ||
      sentence[i] == ('U')))
      {
-        // keep count of vowels
+        // keep count of vowels as a whole.
         vowels += 1;
      }
     }
