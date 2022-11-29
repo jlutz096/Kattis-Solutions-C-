@@ -31,6 +31,6 @@ int main()
         t += q * y;
     }
 
-    // print results
+    // print results total
     std::cout << t << std::endl;
 }
