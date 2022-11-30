@@ -31,8 +31,9 @@ my Kattis profile here.
 17. [Solving For Carrots (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/SolvingForCarrots.cpp)
 18. [Sort Two Numbers (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/SortTwoNumbers.cpp)
 19. [Stuck In a Time Loop (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/StuckInATimeLoop.cpp)
-20. [Triangle Area (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/TriangleArea.cpp)
-21. [Two Stones (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/TwoStones.cpp)
-22. [Two Sum (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/TwoSum.cpp)
-23. [Which is Greater (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/WhichIsGreater.cpp)
+20. [Tarifa (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/Tarifa.cpp)
+21. [Triangle Area (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/TriangleArea.cpp)
+22. [Two Stones (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/TwoStones.cpp)
+23. [Two Sum (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/TwoSum.cpp)
+24. [Which is Greater (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/WhichIsGreater.cpp)
     
