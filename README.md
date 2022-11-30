@@ -10,6 +10,7 @@ my Kattis profile here.
 
 [My Kattis Profile](https://open.kattis.com/users/justin-lutz?status=AC)
 
+<B>Easy Problems</B>
 
 1. [Add Two Numbers (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/AddTwoNumbers.cpp)
 2. [Autori (C++)](https://github.com/jlutz096/Kattis-Solutions-C-/blob/main/Easy%20Problems/Autori.cpp)
