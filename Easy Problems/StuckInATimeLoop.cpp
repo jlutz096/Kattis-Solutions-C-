@@ -26,4 +26,7 @@ int main()
     {
         std::cout << i << " " << "Abracadabra" << std::endl;
     }
+
+    
+    return 0;
 }

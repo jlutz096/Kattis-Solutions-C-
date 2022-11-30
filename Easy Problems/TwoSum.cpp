@@ -30,4 +30,6 @@ int main()
 
     // print results
     std::cout << sum << std::endl;
+
+    return 0;
 }

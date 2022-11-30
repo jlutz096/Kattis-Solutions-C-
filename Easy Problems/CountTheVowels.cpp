@@ -39,4 +39,6 @@ int main()
      }
     }
     std::cout << vowels << std::endl;
+
+    return 0;
 }

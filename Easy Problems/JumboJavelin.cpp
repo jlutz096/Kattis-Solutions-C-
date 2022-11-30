@@ -33,4 +33,6 @@ int main()
 
     // print results
     std::cout << length - N + 1;
+
+    return 0;
 }

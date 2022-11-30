@@ -25,4 +25,6 @@ int main()
 
     // print result
     std::cout << word + " " + word + " " + word << std::endl;
+
+    return 0;
 }

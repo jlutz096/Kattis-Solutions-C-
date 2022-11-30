@@ -22,4 +22,6 @@ int main()
     //use conditional operator
     (n % 2 == 1) ? std::cout << "first" : std::cout << "second";
 
+    return 0;
+
 }

@@ -31,4 +31,6 @@ int main()
 
     // output result
     std::cout << totalVariations << std::endl;
+
+    return 0;
 }

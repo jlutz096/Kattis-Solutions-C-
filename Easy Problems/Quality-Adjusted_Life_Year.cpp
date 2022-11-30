@@ -33,4 +33,6 @@ int main()
 
     // print results total
     std::cout << t << std::endl;
+
+     return 0;
 }

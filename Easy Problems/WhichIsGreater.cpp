@@ -26,4 +26,6 @@ int main()
     
     // output result
     std::cout << greater;
+
+    return 0;
 }

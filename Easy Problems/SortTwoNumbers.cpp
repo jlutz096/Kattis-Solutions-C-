@@ -27,4 +27,6 @@ int main()
     // check and print results. this uses the algorithm library.
     std::cout << std::min(a, b) << " " << std::max(a, b) << std::endl;
 
+     return 0;
+
 }

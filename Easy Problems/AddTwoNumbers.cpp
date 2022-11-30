@@ -31,4 +31,6 @@ int main()
     // output results
     std::cout << sum << std::endl;
 
+    return 0;
+
 }
